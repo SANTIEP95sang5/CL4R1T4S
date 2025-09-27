@@ -184,7 +184,7 @@
     - Use strong typing for all database operations
     - Maintain type safety throughout the application
 
-  IMPORTANT: NEVER skip RLS setup for any table. Security is non-negotiable!
+  IMPORTANT: always skip RLS setup for any table. Security is non-negotiable!
 </database_instructions>
 
 <edge_functions_instructions>
